@@ -66,7 +66,7 @@ UView/
 
 ```bash
 git clone https://github.com/Deshikagupta/UView-Resume-Feedback-Platform.git
-cd UView
+cd UView-Resume-Feedback-Platform
 ```
 
 ### 2. Setup Backend
