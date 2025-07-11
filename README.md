@@ -65,7 +65,7 @@ UView/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/UView.git
+git clone https://github.com/Deshikagupta/UView-Resume-Feedback-Platform.git
 cd UView
 ```
 
